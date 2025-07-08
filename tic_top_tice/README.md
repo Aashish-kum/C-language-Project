@@ -1,1 +1,1 @@
-# Tic Top Tice
+# Tic Top Tice Game program
